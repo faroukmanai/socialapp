@@ -1,0 +1,12 @@
+.Profile{
+    display: flex;
+}
+.profileRight{
+    flex:9;
+}
+.profileRightTop{
+
+}
+.profileRightBottom{
+    display: flex;
+}
